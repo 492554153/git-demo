@@ -5,3 +5,4 @@ hello git I love git
 hello git I love git
 hello git I love git	master update
 hello git I love git	hot-fix update
+pull project to localhost(本地)
